@@ -1,0 +1,98 @@
+{
+ "A_expat_tax": {
+  "score": 82.0,
+  "winnability": 1.0,
+  "queries_above_gate": 11,
+  "n_queries": 11,
+  "composition_share": {
+   "gov": 0.0,
+   "forum": 0.0,
+   "brand": 0.0,
+   "niche": 1.0
+  },
+  "n_suggestions": 252,
+  "cpc_band": 9.0,
+  "evergreen": 0.9,
+  "ymyl_risk": 0.5
+ },
+ "B_retirement_mechanics": {
+  "score": 73.5,
+  "winnability": 1.0,
+  "queries_above_gate": 11,
+  "n_queries": 11,
+  "composition_share": {
+   "gov": 0.0,
+   "forum": 0.0,
+   "brand": 0.0,
+   "niche": 1.0
+  },
+  "n_suggestions": 540,
+  "cpc_band": 6.0,
+  "evergreen": 0.85,
+  "ymyl_risk": 0.7
+ },
+ "C_accounting_software": {
+  "score": 62.0,
+  "winnability": 1.0,
+  "queries_above_gate": 10,
+  "n_queries": 10,
+  "composition_share": {
+   "gov": 0.0,
+   "forum": 0.0,
+   "brand": 0.0,
+   "niche": 1.0
+  },
+  "n_suggestions": 24,
+  "cpc_band": 3.0,
+  "evergreen": 0.6,
+  "ymyl_risk": 0.1
+ },
+ "D_career_licensing": {
+  "score": 71.0,
+  "winnability": 1.0,
+  "queries_above_gate": 11,
+  "n_queries": 11,
+  "composition_share": {
+   "gov": 0.0,
+   "forum": 0.0,
+   "brand": 0.0,
+   "niche": 1.0
+  },
+  "n_suggestions": 374,
+  "cpc_band": 2.5,
+  "evergreen": 0.8,
+  "ymyl_risk": 0.2
+ },
+ "E_insurance_claims": {
+  "score": 84.5,
+  "winnability": 1.0,
+  "queries_above_gate": 9,
+  "n_queries": 9,
+  "composition_share": {
+   "gov": 0.0,
+   "forum": 0.0,
+   "brand": 0.0,
+   "niche": 1.0
+  },
+  "n_suggestions": 318,
+  "cpc_band": 12.0,
+  "evergreen": 0.85,
+  "ymyl_risk": 0.8
+ },
+ "F_german_finance": {
+  "score": 66.0,
+  "winnability": 1.0,
+  "queries_above_gate": 11,
+  "n_queries": 11,
+  "composition_share": {
+   "gov": 0.0,
+   "forum": 0.0,
+   "brand": 0.0,
+   "niche": 1.0
+  },
+  "n_suggestions": 238,
+  "cpc_band": 2.0,
+  "evergreen": 0.8,
+  "ymyl_risk": 0.6
+ }
+}

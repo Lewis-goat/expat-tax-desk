@@ -1,0 +1,44 @@
+{
+ "A_expat_tax": {
+  "final_score": 86.0,
+  "winnability_sampled": 0.8,
+  "n_suggestions": 252,
+  "cpc_band": 9.0,
+  "verdict": "WINNER \u2014 small-firm-blog SERPs + live DFSP content gap"
+ },
+ "E_insurance_claims": {
+  "final_score": 68.0,
+  "winnability_sampled": 0.15,
+  "n_suggestions": 318,
+  "cpc_band": 12.0,
+  "verdict": "brand-blocked (NerdWallet/Lemonade/Zebra/Policygenius own page 1)"
+ },
+ "B_retirement": {
+  "final_score": 67.0,
+  "winnability_sampled": 0.5,
+  "n_suggestions": 540,
+  "cpc_band": 6.0,
+  "verdict": "authority-blocked (Mercer/RIA/CPA firms)"
+ },
+ "D_career_licensing": {
+  "final_score": 60.0,
+  "winnability_sampled": null,
+  "n_suggestions": 374,
+  "cpc_band": 2.5,
+  "verdict": "CPC below gate"
+ },
+ "F_german_finance": {
+  "final_score": 55.0,
+  "winnability_sampled": null,
+  "n_suggestions": 238,
+  "cpc_band": 2.0,
+  "verdict": "CPC below gate"
+ },
+ "C_accounting_sw": {
+  "final_score": 52.0,
+  "winnability_sampled": null,
+  "n_suggestions": 24,
+  "cpc_band": 3.0,
+  "verdict": "demand breadth below gate"
+ }
+}
